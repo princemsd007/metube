@@ -1,7 +1,6 @@
 # metube
 A YouTube extension build using JavaScript
 
-# Youtube Zen Mode
 
 Chrome extension for YouTube that removes distractions so you can focus on learning
 
