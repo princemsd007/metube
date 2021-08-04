@@ -40,8 +40,8 @@ Chrome extension for YouTube that removes distractions so you can focus on learn
     cd metube
     ```
 - Generate an API Key for [Youtube Data API](https://console.cloud.google.com/apis/library/youtube.googleapis.com?project=midyear-spot-321704)
-- Replace `INSERT_KEY_HERE` in `Content.js` with your API Key 
-- Go to Chrome Settings > Chrome Extensions
+- Replace `INSERT_KEY_HERE` in `main.js` with your API Key 
+- Go to Chrome Settings > Chrome Extensions.
 - Turn on Developer Mode
 - Click on the 'Load Unpacked' button
 - Select the project folder
