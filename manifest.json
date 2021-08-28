@@ -1,7 +1,7 @@
 {
     "manifest_version":2,
     "version":"1.0.0",
-    "name": "Youtube Zen",
+    "name": ""Metube"",
     "content_scripts": [
         {
             "matches": ["https://www.youtube.com/","https://www.youtube.com/?*"],
